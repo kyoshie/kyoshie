@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kyoshie
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python and mobile development specifically flutter
+- 🌱 I’m currently learning web development
 - ⚡ Fun fact: I love playing online games
 
 <!---

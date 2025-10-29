@@ -1,33 +1,13 @@
 # 👋 Hi, I'm @kyoshie
 
-💻 I'm a passionate developer and designer who loves bringing ideas to life through code and creativity.
+💻 Developer & designer passionate about building clean, user-friendly digital experiences.
 
-## 🎓 Education
-- **Bachelor of Science in Information Technology (BSIT)**  
-  University of Batangas — *Graduated Cum Laude* 🎓  
+🎓 **BSIT, University of Batangas** — *Cum Laude*  
+💼 **Intern @ UB** — UI/UX + Frontend Dev for **IQAO Audit System**  
+🪄 Built an **NFT web app** that converts art into NFTs to fight plagiarism  
+📍 **Now @ Bigmate PH** — Managing WordPress site + social media
 
-## 💼 Experience
-- **Intern | University of Batangas** *(January – May)*  
-  *UI/UX Designer & Front-End Developer*  
-  - Designed and developed the **frontend and user interface** for **IQAO**, an internal audit system for the university.  
-  - Collaborated with the team to improve usability and accessibility for end-users.
-
-- **Project | NFT Web App**  
-  - Built a **web application that converts artworks into NFTs** to help artists fight plagiarism and protect ownership rights.
-
-- **Current Role | Bigmate Philippines**  
-  *Senior Digital Marketing Staff*  
-  - Managing and maintaining the **WordPress company website**.  
-  - Overseeing **social media content and marketing campaigns** to boost brand visibility.
-
-## 💡 Interests
-- 🌐 Web Development & UI/UX Design  
-- 🎮 Online Gaming  
-- 🚀 Exploring new tech and design trends  
-
----
-
-✨ *"Building meaningful digital experiences, one line of code at a time."* ✨
+🎮 Loves web dev, design, and online games 🎨
 
 <!---
 kyoshie/kyoshie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

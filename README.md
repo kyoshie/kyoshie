@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @kyoshie
 
-💻 Developer, designer and digital marketing specialist passionate about building clean, user-friendly digital experiences.
+💻 Developer, designer, and digital marketing specialist passionate about building clean, user-friendly digital experiences.
 
 🎓 **BSIT, University of Batangas** — *Cum Laude*  
 💼 **Intern @ UB** — UI/UX + Frontend Dev for **IQAO Audit System**  

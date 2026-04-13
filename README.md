@@ -5,7 +5,7 @@
 🎓 **BSIT, University of Batangas** — *Cum Laude*  
 💼 **Intern @ UB** — UI/UX + Frontend Dev for **IQAO Audit System**  
 🪄 Built an **NFT web app** that converts art into NFTs to fight plagiarism  
-📍 **Now @ Bigmate PH** — Managing WordPress site + social media
+📍 **Now @ Bigmate PH** — SEO Specialist
 
 🎮 Loves web dev, design, and online games 🎨
 
